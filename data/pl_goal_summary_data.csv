@@ -1,0 +1,201 @@
+﻿season_id,team,goals_for,goals_against,goal_diff,team_season
+2010,Arsenal,72.0,43.0,29.0,Arsenal 2010/2011
+2010,Aston Villa,48.0,59.0,-11.0,Aston Villa 2010/2011
+2010,Birmingham,37.0,58.0,-21.0,Birmingham 2010/2011
+2010,Blackburn,46.0,59.0,-13.0,Blackburn 2010/2011
+2010,Blackpool,55.0,78.0,-23.0,Blackpool 2010/2011
+2010,Bolton,52.0,56.0,-4.0,Bolton 2010/2011
+2010,Chelsea,69.0,33.0,36.0,Chelsea 2010/2011
+2010,Everton,51.0,45.0,6.0,Everton 2010/2011
+2010,Fulham,49.0,43.0,6.0,Fulham 2010/2011
+2010,Liverpool,59.0,44.0,15.0,Liverpool 2010/2011
+2010,Man City,60.0,33.0,27.0,Man City 2010/2011
+2010,Man United,78.0,37.0,41.0,Man United 2010/2011
+2010,Newcastle,56.0,57.0,-1.0,Newcastle 2010/2011
+2010,Stoke,46.0,48.0,-2.0,Stoke 2010/2011
+2010,Sunderland,45.0,56.0,-11.0,Sunderland 2010/2011
+2010,Tottenham,55.0,46.0,9.0,Tottenham 2010/2011
+2010,West Brom,56.0,71.0,-15.0,West Brom 2010/2011
+2010,West Ham,43.0,70.0,-27.0,West Ham 2010/2011
+2010,Wigan,40.0,61.0,-21.0,Wigan 2010/2011
+2010,Wolves,46.0,66.0,-20.0,Wolves 2010/2011
+2011,Arsenal,74.0,49.0,25.0,Arsenal 2011/2012
+2011,Aston Villa,37.0,53.0,-16.0,Aston Villa 2011/2012
+2011,Blackburn,48.0,78.0,-30.0,Blackburn 2011/2012
+2011,Bolton,46.0,77.0,-31.0,Bolton 2011/2012
+2011,Chelsea,65.0,46.0,19.0,Chelsea 2011/2012
+2011,Everton,50.0,40.0,10.0,Everton 2011/2012
+2011,Fulham,48.0,51.0,-3.0,Fulham 2011/2012
+2011,Liverpool,47.0,40.0,7.0,Liverpool 2011/2012
+2011,Man City,93.0,29.0,64.0,Man City 2011/2012
+2011,Man United,89.0,33.0,56.0,Man United 2011/2012
+2011,Newcastle,56.0,51.0,5.0,Newcastle 2011/2012
+2011,Norwich,52.0,66.0,-14.0,Norwich 2011/2012
+2011,QPR,43.0,66.0,-23.0,QPR 2011/2012
+2011,Stoke,36.0,53.0,-17.0,Stoke 2011/2012
+2011,Sunderland,45.0,46.0,-1.0,Sunderland 2011/2012
+2011,Swansea,44.0,51.0,-7.0,Swansea 2011/2012
+2011,Tottenham,66.0,41.0,25.0,Tottenham 2011/2012
+2011,West Brom,45.0,52.0,-7.0,West Brom 2011/2012
+2011,Wigan,42.0,62.0,-20.0,Wigan 2011/2012
+2011,Wolves,40.0,82.0,-42.0,Wolves 2011/2012
+2012,Arsenal,72.0,37.0,35.0,Arsenal 2012/2013
+2012,Aston Villa,47.0,69.0,-22.0,Aston Villa 2012/2013
+2012,Chelsea,75.0,39.0,36.0,Chelsea 2012/2013
+2012,Everton,55.0,40.0,15.0,Everton 2012/2013
+2012,Fulham,50.0,60.0,-10.0,Fulham 2012/2013
+2012,Liverpool,71.0,43.0,28.0,Liverpool 2012/2013
+2012,Man City,66.0,34.0,32.0,Man City 2012/2013
+2012,Man United,86.0,43.0,43.0,Man United 2012/2013
+2012,Newcastle,45.0,68.0,-23.0,Newcastle 2012/2013
+2012,Norwich,41.0,58.0,-17.0,Norwich 2012/2013
+2012,QPR,30.0,60.0,-30.0,QPR 2012/2013
+2012,Reading,43.0,73.0,-30.0,Reading 2012/2013
+2012,Southampton,49.0,60.0,-11.0,Southampton 2012/2013
+2012,Stoke,34.0,45.0,-11.0,Stoke 2012/2013
+2012,Sunderland,41.0,54.0,-13.0,Sunderland 2012/2013
+2012,Swansea,47.0,51.0,-4.0,Swansea 2012/2013
+2012,Tottenham,66.0,46.0,20.0,Tottenham 2012/2013
+2012,West Brom,53.0,57.0,-4.0,West Brom 2012/2013
+2012,West Ham,45.0,53.0,-8.0,West Ham 2012/2013
+2012,Wigan,47.0,73.0,-26.0,Wigan 2012/2013
+2013,Arsenal,68.0,41.0,27.0,Arsenal 2013/2014
+2013,Aston Villa,39.0,61.0,-22.0,Aston Villa 2013/2014
+2013,Cardiff,32.0,74.0,-42.0,Cardiff 2013/2014
+2013,Chelsea,71.0,27.0,44.0,Chelsea 2013/2014
+2013,Crystal Palace,33.0,48.0,-15.0,Crystal Palace 2013/2014
+2013,Everton,61.0,39.0,22.0,Everton 2013/2014
+2013,Fulham,40.0,85.0,-45.0,Fulham 2013/2014
+2013,Hull,38.0,53.0,-15.0,Hull 2013/2014
+2013,Liverpool,101.0,50.0,51.0,Liverpool 2013/2014
+2013,Man City,102.0,37.0,65.0,Man City 2013/2014
+2013,Man United,64.0,43.0,21.0,Man United 2013/2014
+2013,Newcastle,43.0,59.0,-16.0,Newcastle 2013/2014
+2013,Norwich,28.0,62.0,-34.0,Norwich 2013/2014
+2013,Southampton,54.0,46.0,8.0,Southampton 2013/2014
+2013,Stoke,45.0,52.0,-7.0,Stoke 2013/2014
+2013,Sunderland,41.0,60.0,-19.0,Sunderland 2013/2014
+2013,Swansea,54.0,54.0,0.0,Swansea 2013/2014
+2013,Tottenham,55.0,51.0,4.0,Tottenham 2013/2014
+2013,West Brom,43.0,59.0,-16.0,West Brom 2013/2014
+2013,West Ham,40.0,51.0,-11.0,West Ham 2013/2014
+2014,Arsenal,71.0,36.0,35.0,Arsenal 2014/2015
+2014,Aston Villa,31.0,57.0,-26.0,Aston Villa 2014/2015
+2014,Burnley,28.0,53.0,-25.0,Burnley 2014/2015
+2014,Chelsea,73.0,32.0,41.0,Chelsea 2014/2015
+2014,Crystal Palace,47.0,51.0,-4.0,Crystal Palace 2014/2015
+2014,Everton,48.0,50.0,-2.0,Everton 2014/2015
+2014,Hull,33.0,51.0,-18.0,Hull 2014/2015
+2014,Leicester,46.0,55.0,-9.0,Leicester 2014/2015
+2014,Liverpool,52.0,48.0,4.0,Liverpool 2014/2015
+2014,Man City,83.0,38.0,45.0,Man City 2014/2015
+2014,Man United,62.0,37.0,25.0,Man United 2014/2015
+2014,Newcastle,40.0,63.0,-23.0,Newcastle 2014/2015
+2014,QPR,42.0,73.0,-31.0,QPR 2014/2015
+2014,Southampton,54.0,33.0,21.0,Southampton 2014/2015
+2014,Stoke,48.0,45.0,3.0,Stoke 2014/2015
+2014,Sunderland,31.0,53.0,-22.0,Sunderland 2014/2015
+2014,Swansea,46.0,49.0,-3.0,Swansea 2014/2015
+2014,Tottenham,58.0,53.0,5.0,Tottenham 2014/2015
+2014,West Brom,38.0,51.0,-13.0,West Brom 2014/2015
+2014,West Ham,44.0,47.0,-3.0,West Ham 2014/2015
+2015,Arsenal,65.0,36.0,29.0,Arsenal 2015/2016
+2015,Aston Villa,27.0,76.0,-49.0,Aston Villa 2015/2016
+2015,Bournemouth,45.0,67.0,-22.0,Bournemouth 2015/2016
+2015,Chelsea,59.0,53.0,6.0,Chelsea 2015/2016
+2015,Crystal Palace,39.0,51.0,-12.0,Crystal Palace 2015/2016
+2015,Everton,59.0,55.0,4.0,Everton 2015/2016
+2015,Leicester,68.0,36.0,32.0,Leicester 2015/2016
+2015,Liverpool,63.0,50.0,13.0,Liverpool 2015/2016
+2015,Man City,71.0,41.0,30.0,Man City 2015/2016
+2015,Man United,49.0,35.0,14.0,Man United 2015/2016
+2015,Newcastle,44.0,65.0,-21.0,Newcastle 2015/2016
+2015,Norwich,39.0,67.0,-28.0,Norwich 2015/2016
+2015,Southampton,59.0,41.0,18.0,Southampton 2015/2016
+2015,Stoke,41.0,55.0,-14.0,Stoke 2015/2016
+2015,Sunderland,48.0,62.0,-14.0,Sunderland 2015/2016
+2015,Swansea,42.0,52.0,-10.0,Swansea 2015/2016
+2015,Tottenham,69.0,35.0,34.0,Tottenham 2015/2016
+2015,Watford,40.0,50.0,-10.0,Watford 2015/2016
+2015,West Brom,34.0,48.0,-14.0,West Brom 2015/2016
+2015,West Ham,65.0,51.0,14.0,West Ham 2015/2016
+2016,Arsenal,77.0,44.0,33.0,Arsenal 2016/2017
+2016,Bournemouth,55.0,67.0,-12.0,Bournemouth 2016/2017
+2016,Burnley,39.0,55.0,-16.0,Burnley 2016/2017
+2016,Chelsea,85.0,33.0,52.0,Chelsea 2016/2017
+2016,Crystal Palace,50.0,63.0,-13.0,Crystal Palace 2016/2017
+2016,Everton,62.0,44.0,18.0,Everton 2016/2017
+2016,Hull,37.0,80.0,-43.0,Hull 2016/2017
+2016,Leicester,48.0,63.0,-15.0,Leicester 2016/2017
+2016,Liverpool,78.0,42.0,36.0,Liverpool 2016/2017
+2016,Man City,80.0,39.0,41.0,Man City 2016/2017
+2016,Man United,54.0,29.0,25.0,Man United 2016/2017
+2016,Middlesbrough,27.0,53.0,-26.0,Middlesbrough 2016/2017
+2016,Southampton,41.0,48.0,-7.0,Southampton 2016/2017
+2016,Stoke,41.0,56.0,-15.0,Stoke 2016/2017
+2016,Sunderland,29.0,69.0,-40.0,Sunderland 2016/2017
+2016,Swansea,45.0,70.0,-25.0,Swansea 2016/2017
+2016,Tottenham,86.0,26.0,60.0,Tottenham 2016/2017
+2016,Watford,40.0,68.0,-28.0,Watford 2016/2017
+2016,West Brom,43.0,51.0,-8.0,West Brom 2016/2017
+2016,West Ham,47.0,64.0,-17.0,West Ham 2016/2017
+2017,Arsenal,74.0,51.0,23.0,Arsenal 2017/2018
+2017,Bournemouth,45.0,61.0,-16.0,Bournemouth 2017/2018
+2017,Brighton,34.0,54.0,-20.0,Brighton 2017/2018
+2017,Burnley,36.0,39.0,-3.0,Burnley 2017/2018
+2017,Chelsea,62.0,38.0,24.0,Chelsea 2017/2018
+2017,Crystal Palace,45.0,55.0,-10.0,Crystal Palace 2017/2018
+2017,Everton,44.0,58.0,-14.0,Everton 2017/2018
+2017,Huddersfield,28.0,58.0,-30.0,Huddersfield 2017/2018
+2017,Leicester,56.0,60.0,-4.0,Leicester 2017/2018
+2017,Liverpool,84.0,38.0,46.0,Liverpool 2017/2018
+2017,Man City,106.0,27.0,79.0,Man City 2017/2018
+2017,Man United,68.0,28.0,40.0,Man United 2017/2018
+2017,Newcastle,39.0,47.0,-8.0,Newcastle 2017/2018
+2017,Southampton,37.0,56.0,-19.0,Southampton 2017/2018
+2017,Stoke,35.0,68.0,-33.0,Stoke 2017/2018
+2017,Swansea,28.0,56.0,-28.0,Swansea 2017/2018
+2017,Tottenham,74.0,36.0,38.0,Tottenham 2017/2018
+2017,Watford,44.0,64.0,-20.0,Watford 2017/2018
+2017,West Brom,31.0,56.0,-25.0,West Brom 2017/2018
+2017,West Ham,48.0,68.0,-20.0,West Ham 2017/2018
+2018,Arsenal,73.0,51.0,22.0,Arsenal 2018/2019
+2018,Bournemouth,56.0,70.0,-14.0,Bournemouth 2018/2019
+2018,Brighton,35.0,60.0,-25.0,Brighton 2018/2019
+2018,Burnley,45.0,68.0,-23.0,Burnley 2018/2019
+2018,Cardiff,34.0,69.0,-35.0,Cardiff 2018/2019
+2018,Chelsea,63.0,39.0,24.0,Chelsea 2018/2019
+2018,Crystal Palace,51.0,53.0,-2.0,Crystal Palace 2018/2019
+2018,Everton,54.0,46.0,8.0,Everton 2018/2019
+2018,Fulham,34.0,81.0,-47.0,Fulham 2018/2019
+2018,Huddersfield,22.0,76.0,-54.0,Huddersfield 2018/2019
+2018,Leicester,51.0,48.0,3.0,Leicester 2018/2019
+2018,Liverpool,89.0,22.0,67.0,Liverpool 2018/2019
+2018,Man City,95.0,23.0,72.0,Man City 2018/2019
+2018,Man United,65.0,54.0,11.0,Man United 2018/2019
+2018,Newcastle,42.0,48.0,-6.0,Newcastle 2018/2019
+2018,Southampton,45.0,65.0,-20.0,Southampton 2018/2019
+2018,Tottenham,67.0,39.0,28.0,Tottenham 2018/2019
+2018,Watford,52.0,59.0,-7.0,Watford 2018/2019
+2018,West Ham,52.0,55.0,-3.0,West Ham 2018/2019
+2018,Wolves,47.0,46.0,1.0,Wolves 2018/2019
+2019,Arsenal,56.0,48.0,8.0,Arsenal 2019/2020
+2019,Aston Villa,41.0,67.0,-26.0,Aston Villa 2019/2020
+2019,Bournemouth,40.0,65.0,-25.0,Bournemouth 2019/2020
+2019,Brighton,39.0,54.0,-15.0,Brighton 2019/2020
+2019,Burnley,43.0,50.0,-7.0,Burnley 2019/2020
+2019,Chelsea,69.0,54.0,15.0,Chelsea 2019/2020
+2019,Crystal Palace,31.0,50.0,-19.0,Crystal Palace 2019/2020
+2019,Everton,44.0,56.0,-12.0,Everton 2019/2020
+2019,Leicester,67.0,41.0,26.0,Leicester 2019/2020
+2019,Liverpool,85.0,33.0,52.0,Liverpool 2019/2020
+2019,Man City,102.0,35.0,67.0,Man City 2019/2020
+2019,Man United,66.0,36.0,30.0,Man United 2019/2020
+2019,Newcastle,38.0,58.0,-20.0,Newcastle 2019/2020
+2019,Norwich,26.0,75.0,-49.0,Norwich 2019/2020
+2019,Sheffield United,39.0,39.0,0.0,Sheffield United 2019/2020
+2019,Southampton,51.0,60.0,-9.0,Southampton 2019/2020
+2019,Tottenham,61.0,47.0,14.0,Tottenham 2019/2020
+2019,Watford,36.0,64.0,-28.0,Watford 2019/2020
+2019,West Ham,49.0,62.0,-13.0,West Ham 2019/2020
+2019,Wolves,51.0,40.0,11.0,Wolves 2019/2020
